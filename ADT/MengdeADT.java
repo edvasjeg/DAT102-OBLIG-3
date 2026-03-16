@@ -1,4 +1,4 @@
-package dat102.uke10.oppg4_mengder;
+package dat102.uke10.oppg4_mengder.ADT;
 
 public interface MengdeADT<T> {
 	
